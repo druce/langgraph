@@ -39,6 +39,11 @@ sec-downloader==0.11.1
 sec-edgar-downloader==5.0.2
 Nasdaq-Data-Link==1.0.4
 yfinance==0.2.40
+PyAutoGUI==0.9.54
+# probably don't need this, installed with pyautogui requirements
+# pyobjc==10.3.1
+
+
 
 
 
