@@ -17,12 +17,15 @@ tiktoken==0.7.0
 google-generativeai==0.6.0
 openbb[all]==4.2.2
 # streamlit
-langchain==0.2.5
-langchain-community==0.2.5
-langchain-core==0.2.7
+langchain==0.2.6
+langchain-community==0.2.6
+langchain-core==0.2.10
+langchain-huggingface==0.0.3
+langchain-nomic==0.1.2
 langchain-openai==0.1.8
 langchain-text-splitters==0.2.1
-langgraph==0.0.69
+langchainhub==0.1.20
+langgraph==0.1.4
 langsmith==0.1.77
 # langchain-experimental
 # pygraphviz
@@ -42,6 +45,12 @@ yfinance==0.2.40
 PyAutoGUI==0.9.54
 # probably don't need this, installed with pyautogui requirements
 # pyobjc==10.3.1
+# to run ollama local models (also need ollama running locally # https://github.com/ollama/ollama
+gpt4all==2.7.0
+transformers==4.42.3
+torch==2.3.1
+torchvision==0.18.1
+
 
 
 
