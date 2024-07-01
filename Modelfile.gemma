@@ -1,0 +1,5 @@
+FROM ~/models/lm-studio/models/bartowski/gemma-2-9b-it-GGUF/gemma-2-9b-it-Q6_K.gguf
+
+
+
+

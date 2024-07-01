@@ -1,0 +1,6 @@
+FROM ~/models/lm-studio/models/bartowski/Yi-1.5-9B-Chat-GGUF/Yi-1.5-9B-Chat-Q6_K.gguf
+
+PARAMETER stop "<|im_start|>"
+PARAMETER stop "<|im_end|>"
+
+
